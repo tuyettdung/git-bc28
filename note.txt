@@ -3,10 +3,15 @@
 2/ ktra phien ban git
 - lenh: git --version
 3/ dua code cua minh len server  github/gitlab
- - lenh: git add .
-        git commit -m "your comment"
-        git push
+ - lenh: *git add .  /    git add ./index.html
+         *git commit -m "your comment"
+         *copy link : git remote add origin https://github.com/tuyettdung/git-bc28.git
+         *git push --set-upstream origin master
 4/ Lenh ktra trang thai cua git
     - lenh: git status
 
-note: ****
+5/ lenh giup git bit dc se dua code den cho nao
+      -lenh: git remote add origin https://github.com/tuyettdung/git-bc28.git
+
+
+vdfseffs
