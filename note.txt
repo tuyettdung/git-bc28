@@ -26,4 +26,14 @@
 9/ Tao nhanh moi:
    - lenh: git branch {name}
    vd: git branch dung-header
+
+10/ chuyen nhanh de code tiep:
+   - lenh: git checkout {branch_name}
+   vd: git checkout dung-header
+
+11/ Ket hop code cua 2 nhanh:
+    -lenh: 
+    note: neu muon ket hop code vao master thi ban phai dung o nhanh master
+    - lenh: git merge {branch_name}
+    vd: git merger dung-header
    
