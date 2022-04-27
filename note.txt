@@ -13,5 +13,17 @@
 5/ lenh giup git bit dc se dua code den cho nao
       -lenh: git remote add origin https://github.com/tuyettdung/git-bc28.git
 
+6/ ktra xem add remote thanh cong chua
+   - lenh: git remove
 
-vdfseffs
+7/ Moi vao cty lay code nhu the nao?
+  - lenh: git clone {url_github}
+  vi du: git clone https://github.com/tuyettdung/git-bc28.git
+
+8/ ktra xem co bn nhanh tren source code
+   - lenh: git branch
+
+9/ Tao nhanh moi:
+   - lenh: git branch {name}
+   vd: git branch dung-header
+   
